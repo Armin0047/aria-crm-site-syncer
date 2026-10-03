@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Local configuration and logs
+Settings.ini
+**/Settings.ini
+Logs/
+**/Logs/
+
+# NuGet packages are restored from packages.config
+packages/
+
